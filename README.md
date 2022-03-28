@@ -1,6 +1,6 @@
 # Changed Remastered Infos.
 
-Changed ported from RPG Maker VX to RPG Maker MV.
+fan-made port of Changed from RPG Maker VX to RPG Maker MV.
 
 this does **NOT** contain the source of Changed Remastered,
 
