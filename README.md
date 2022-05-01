@@ -2,6 +2,8 @@
 
 Fan-made port of Changed from RPG Maker VX to RPG Maker MV.
 
+This project is **NOT** affiliated with dragonsnow and Shizi.
+
 This does **NOT** contain the source of Changed Remastered,
 
 Upgrades, Infos, Flaws/Issues will be shown in this repository here.
