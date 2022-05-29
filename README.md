@@ -10,4 +10,5 @@ Upgrades, Infos, Flaws/Issues will be shown in this repository here.
 
 Sadly, you can't transfer the savefiles from the original into the remaster, i'm looking out for any solutions, for the time being you probably need to replay the game if it comes out.
 
-Public Beta release is unscheduled, i will not release it unless the original owner (DragonSnow4) will give me permission as literally most of the content is his and Shizi's.
+Public Beta release is unscheduled, i will not release it unless the original owner (DragonSnow4) will give me permission as literally most of the content is his.
+(i dont know if Shizi, the composer of Changed is fine with it?)
