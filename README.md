@@ -1,7 +1,8 @@
 # Changed Remastered
 
-Fan-made port of Changed from RPG Maker VX to RPG Maker MV.
 **Warning**: the remaster might run on another engine but it is **NOT** decided yet.
+
+Fan-made port of Changed from RPG Maker VX to RPG Maker MV.
 
 This project is **NOT** affiliated with DragonSnow and Shizi.
 
