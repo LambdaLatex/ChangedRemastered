@@ -1,6 +1,4 @@
-# Changed Remastered
-
-**Warning**: the remaster might run on another engine but it is **NOT** decided yet.
+# Changed: Enchanced Edition
 
 Fan-made port of Changed from RPG Maker VX to RPG Maker MV.
 
